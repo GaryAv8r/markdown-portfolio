@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Lego Image] (https://www.google.com/imgres?imgurl=http%3A%2F%2Fimages.clipartpanda.com%2Flego-clip-art-RiA6L8LdT.png&imgrefurl=http%3A%2F%2Fwww.clipartpanda.com%2Fcategories%2Flego-clip-art-free&docid=6LLPZZahf5XP4M&tbnid=T70V_eaiZ4HaYM%3A&vet=10ahUKEwjgqY2hkYzfAhVIJt8KHYc8B64QMwhmKAowCg..i&w=480&h=596&hl=en&bih=924&biw=1299&q=legos%20clipart&ved=0ahUKEwjgqY2hkYzfAhVIJt8KHYc8B64QMwhmKAowCg&iact=mrc&uact=8)
